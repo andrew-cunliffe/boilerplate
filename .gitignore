@@ -1,0 +1,18 @@
+# Visual Studio Code
+.classpath
+.project
+.settings/
+.vscode/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Node
+node_modules/
+
+# Dart
+.packages
+.dart_tool/
