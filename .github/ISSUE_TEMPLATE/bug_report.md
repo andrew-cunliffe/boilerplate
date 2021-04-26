@@ -1,38 +1,44 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Defect report
+about: An unexpected behaviour has occurred and requires attention
+title: 'TEST TITLE'
+labels: 'status: awaiting triage'
+assignees: 'andrew-cunliffe'
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Referenece to feature**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+<!--
+enter the issue number where this feature was orignally supported.
+
+related to issue #xx
+-->
+
+**Describe the defect**
+
+<!-- A clear and concise description of what the defect is. -->
+
+**Environment**
+
+<!--
+- Is this a hosted or local instance of the project.
+- What is the version / tag for which this occurred.
+- What device or browser was used.
+-->
+
+**Steps to reproduce**
+
+<!--
+1. Goto ....
+2. Click on ....
+3. Observed failure state
+-->
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+
+<!-- What should have been observed -->
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+<!-- Drag and drop any available screenshots or supporting files, highlighting the problem -->

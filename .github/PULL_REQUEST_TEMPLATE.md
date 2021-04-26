@@ -6,32 +6,26 @@ in another repository = fixes repo/#xx
 multiple issues = resolves #xx, resolves #xx  
 -->
 
-closes #xx
+closes #
 
 <!--  
 Provide a short description of the changes.  
 -->
 
-### SCREENSHOTS
+**Screenshots**
 
 <!--  
 Drag and drop screenshots to show the visual changes made (if any).  
 -->
 
-### CHECKLIST
-
-<!--  
-After raising the pull request, make sure to check the boxes on these lists.  
--->
-
-#### Developer checklist
+**Developer checklist**
 
 When the PR is first raised the owner should perform their own review and check the following points prior to requesting a formal review;
 
 - [ ] Documentation updated as required
 - [ ] Tests reflect changes and issue
 
-#### Reviewer list
+**Reviewer list**
 
 - [ ] Requirements met for referenced issues
 - [ ] Best practices and consistency with general codebase
@@ -39,7 +33,7 @@ When the PR is first raised the owner should perform their own review and check 
 - [ ] Automated test scenarios cover expectations
 - [ ] Manual checks running locally
 
-### ADDITIONAL NOTES
+**Additional notes**
 
 <!--  
 Include any information which may be helpful, for example;  
