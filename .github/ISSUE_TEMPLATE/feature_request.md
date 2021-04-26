@@ -1,7 +1,7 @@
 ---
 name: New story
 about: A project requirement that requires implementation
-title: 'TITLE TEST'
+title: ''
 labels: 'status: awaiting triage'
 assignees: ''
 

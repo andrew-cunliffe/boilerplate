@@ -1,7 +1,7 @@
 ---
 name: Defect report
 about: An unexpected behaviour has occurred and requires attention
-title: 'TEST TITLE'
+title: ''
 labels: 'status: awaiting triage'
 assignees: 'andrew-cunliffe'
 
