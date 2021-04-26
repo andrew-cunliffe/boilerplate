@@ -1,20 +1,28 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: New story
+about: A project requirement that requires implementation
+title: 'TITLE TEST'
+labels: 'status: awaiting triage'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Describe requirement**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+<!--
+Recommendation is to use traditional story format when possible.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+As a < user / admin / system >
+I would like to < view information about / perform action >
+So that < result can be achieved >
+-->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Provide required acceptance criteria**
+
+<!--
+Define what is required to call this story done. This should typically be a single acceptance criteria per story.
+
+Given < there is some precondition >
+When < and action is performed >
+Then < the outcome should be >
+-->
